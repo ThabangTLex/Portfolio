@@ -75,17 +75,26 @@ Serving as the **Secretary and Scribe** for a 6-person team, I helped build a bo
 * [cite_start]ncnendouvhada@gmail.com [cite: 19]
 
 1. Reflecting on the Markdown Portfolio
+Using Markdown (.md) for your portfolio is a "pro-tier" move. It shows you are comfortable with the documentation standards used by professional engineering teams.
 
-Choosing Markdown (.md) is definitely a "pro-tier" move. You've demonstrated the mastery of documentation standards employed by engineering teams in companies.
+Structure & Scannability: Your portfolio is well-organized. You’ve clearly separated your technical skills from your projects, which helps recruiters quickly identify if you have the right stack (Java, Python, etc.).
 
-Structure and Scannability: The layout of your portfolio is perfect! By clearly differentiating between your technical skills and projects, you've helped recruiters see at once whether or not your tech stack (Java, Python, et cetera) matches their needs.
+The "Problem-Approach-Outcome" Model: This is the most effective way to describe projects. Instead of just saying "I wrote Java code," you explained why (the accommodation data errors) and the impact (reducing entry time by 40%).
 
-"Problem-Approach-Outcome" Structure: As I already said, this model works best in describing your projects. For example, by explaining what made you write Java code, you emphasized the motivation (accommodation data errors) and its outcome (shortened the time of entry by 40%).
-
-Tips for Refining: Because you are a "Technical Scribe," make sure you've added your link to GitHub repository into the README. Another recommendation would be to include a short section regarding Methodologies you've worked with, such as Agile/Scrum (according to your academic background).
+Refinement Tip: Since you are a "Technical Scribe," ensure your GitHub link is updated in the README. Consider adding a small section on "Methodologies" to highlight your experience with Agile and Scrum, as mentioned in your academic background.
 
 2. Reflecting on the Mock Interview
+Watching yourself on camera can be uncomfortable, but it is the fastest way to improve.
 
-While watching yourself on camera might feel awkward, there's no faster way to learn than this.
+The "Hook": You started strong by defining yourself as an "aspiring software developer dedicated to building scalable applications." This immediately tells the interviewer your level and your goal.
 
-The Hook: You've nailed the hook by defining yourself as "aspiring software developer dedicated to building scalable applications." By doing that, you immediately provided information regarding your level and
+Authenticity: When you hit a moment of "brain fog" at the end of the clip, you handled it with a smile. In a real interview, this is where you can say, "I’m very passionate about this topic, let me take a second to gather my thoughts," which shows composure under pressure.
+
+Non-Verbal Cues: You maintained good eye contact with the camera, which translates to confidence. To take it to the next level, try to reduce looking upward when thinking; it helps you appear more "present" with the interviewer.
+
+3. Reflecting on GitHub Pages Deployment
+Deploying your portfolio to GitHub Pages is your first "live" launch. It moves your work from a local file on your PC to a global URL.
+
+Version Control: By using GitHub, you aren’t just hosting a site; you’re demonstrating that you understand git workflows—branching, committing, and pushing.
+
+Visibility: This URL is now something you can put on your LinkedIn profile or WhatsApp Bio. It acts as a "living resume" that updates as you add more entities to your Community Store or Food Ordering projects.
