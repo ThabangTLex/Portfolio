@@ -73,3 +73,19 @@ Serving as the **Secretary and Scribe** for a 6-person team, I helped build a bo
 * [cite_start]Menar Mining Company [cite: 17]
 * [cite_start]+27 78 453 8720 [cite: 18]
 * [cite_start]ncnendouvhada@gmail.com [cite: 19]
+
+1. Reflecting on the Markdown Portfolio
+
+Choosing Markdown (.md) is definitely a "pro-tier" move. You've demonstrated the mastery of documentation standards employed by engineering teams in companies.
+
+Structure and Scannability: The layout of your portfolio is perfect! By clearly differentiating between your technical skills and projects, you've helped recruiters see at once whether or not your tech stack (Java, Python, et cetera) matches their needs.
+
+"Problem-Approach-Outcome" Structure: As I already said, this model works best in describing your projects. For example, by explaining what made you write Java code, you emphasized the motivation (accommodation data errors) and its outcome (shortened the time of entry by 40%).
+
+Tips for Refining: Because you are a "Technical Scribe," make sure you've added your link to GitHub repository into the README. Another recommendation would be to include a short section regarding Methodologies you've worked with, such as Agile/Scrum (according to your academic background).
+
+2. Reflecting on the Mock Interview
+
+While watching yourself on camera might feel awkward, there's no faster way to learn than this.
+
+The Hook: You've nailed the hook by defining yourself as "aspiring software developer dedicated to building scalable applications." By doing that, you immediately provided information regarding your level and
