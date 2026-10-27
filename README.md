@@ -1,100 +1,80 @@
-# Portfolio
-# PROFESSIONAL PORTFOLIO
+# Sober Hub: Digital Portfolio
+**Agile Project Report & Web Prototype Evidence**
 
-## THABANG NDOUVHADA
-**Aspiring Software Developer**
-
----
-
-### PROFILE
-[cite_start]I am an aspiring software developer dedicated to building scalable applications[cite: 2]. [cite_start]I thrive when it comes to logic and creativity, constantly seeking to solve real-world problems through clean code[cite: 3]. [cite_start]I am currently pursuing a **Diploma in ICT (Applications Development)** [cite: 9] and have a strong background in academic project leadership.
-
-### CONTACT INFORMATION
-* [cite_start]**Email:** 240232216@mycput.ac.za [cite: 8]
-* [cite_start]**Phone:** +27 64 645 3794 [cite: 12]
-* **GitHub:** [Your GitHub Link Here]
-* **Location:** Cape Town, South Africa
+* **Student Name**: Thabang Lexon Ndouvhada
+* **Student ID**: 240232216
+* **Course**: PRP370S
+* **Institution**: Cape Peninsula University of Technology (CPUT)
 
 ---
 
-### TECHNICAL SKILLS
-* [cite_start]**Languages:** Java, JavaScript, Python[cite: 21].
-* **Tools:** IntelliJ, NetBeans, GitHub, Maven, Notepad++, Thonny.
-* **Competencies:** Object-Oriented Programming (OOP), Test-Driven Development (TDD), Repository Patterns, and GUI Modeling.
-* [cite_start]**Soft Skills:** Problem solving, Good communication, Adaptability, Strategic thinking[cite: 23].
+## Quick Navigation Links
+* **Trello Agile Board**: [View Board](https://trello.com/b/BmXaw4Vp)
+* **Live GitHub Website**: [Visit Live Site](https://thabangtlex.github.io/Sober-Hub-Pages)
+* **Source Code Repository**: [View Source Code](https://github.com/thabangtlex/Sober-Hub-Pages)
 
 ---
 
-### FEATURED PROJECTS
-
-#### 1. Automated Student Residence Placement System
-**The Problem**
-[cite_start]Manual, paper-based accommodation applications often lead to data errors and slow processing times for students[cite: 15].
-
-**The Approach**
-I developed a digital application to streamline student housing requests. I focused on creating a secure backend that validates student eligibility criteria in real-time.
-
-* **Activities:** Designed multi-step forms, implemented database schemas for room availability, and managed version control.
-* **Tools Used:** **Java & NetBeans** for core logic; [cite_start]**GitHub** for team collaboration[cite: 21, 22].
-* **Outcome:** Successfully built a functional prototype reducing manual entry time by **40%**.
-
-#### 2. High-Definition GUI Redesign
-**The Problem**
-[cite_start]Outdated user interfaces in legacy software decrease productivity and lead to user fatigue[cite: 15].
-
-**The Approach**
-[cite_start]I modeled and redesigned Graphical User Interface (GUI) pages to enhance functionality and visual definition[cite: 15].
-
-* **Activities:** Conducted navigation bottleneck evaluations and mapped out optimized user flows.
-* **Tools Used:** **Java Swing/JavaFX** for custom visual components; [cite_start]**Notepad++** for script configuration[cite: 21, 22].
-* **Outcome:** Improved navigation speed by **25%** with a **90%** positive usability rating from peer testing.
-
-#### 3. Peer-Tutoring Booking System (TDD)
-**The Problem**
-Students lack an efficient way to book help for complex IT subjects like Java or Database Management.
-
-**The Approach**
-Serving as the **Secretary and Scribe** for a 6-person team, I helped build a booking engine using **Test-Driven Development (TDD)** to ensure high code reliability.
-
-* **Activities:** Documented technical requirements, managed the GitHub workflow, and wrote unit tests for repository patterns.
-* **Tools Used:** **Maven** for dependency management and **IntelliJ** for advanced debugging.
-* **Outcome:** Achieved **95% code coverage** and met **100%** of project milestones.
+## 1. Agile Team Charter & Project Initiation
+* **Purpose**: Address youth unemployment, substance addiction, and lack of accessible community aftercare in Katlehong through a tech-enabled web support system.
+* **Core Team Values**: Accountability, transparent communication via Trello/WhatsApp, continuous logbook logging, and sprint-based execution.
+* **Working Agreements**: Daily stand-ups, peer code reviews, and structured sprint backlogs for full-stack integration.
 
 ---
 
-### EDUCATION
-* **Diploma in ICT (Applications Development)** | Cape Peninsula University of Technology | [cite_start]*Present* [cite: 9]
-* **National Senior Certificate (Bachelor's Admission)** | [cite_start]*2020* [cite: 9]
+## 2. Product Backlog & Sprints 1–5 Execution
+Our project management was tracked across 10 structured sprints in Trello. Sprints 1 through 5 focused on project setup, domain research, business idea formulation, background documentation, and initial feasibility improvements.
+
+![Trello Board - Sprints 1-5](assets/trello-board-1.png)
+*Figure 1: Trello Scrum Board showing Product Backlog (13 items), Sprint 1 (Planning), Sprint 2 (Research), Sprint 3 (Idea Dev), Sprint 4 (Documentation), and Sprint 5 (Improvements).*
 
 ---
 
-### REFERENCES
-* [cite_start]**Ndivhuho Nendouvhada** [cite: 16]
-* [cite_start]Menar Mining Company [cite: 17]
-* [cite_start]+27 78 453 8720 [cite: 18]
-* [cite_start]ncnendouvhada@gmail.com [cite: 19]
+## 3. Sprints 6–10 Execution & Sprint Backlog
+Sprints 6 to 10 directed effort toward marketing strategy, financial feasibility, MVP prototyping, presentation delivery, and full web application development.
 
-1. Reflecting on the Markdown Portfolio
-Using Markdown (.md) for your portfolio is a "pro-tier" move. It shows you are comfortable with the documentation standards used by professional engineering teams.
+![Trello Board - Sprints 6-10](assets/trello-board-2.png)
+*Figure 2: Trello Scrum Board displaying Sprint 6 (Marketing), Sprint 7 (Feasibility), Sprint 8 (MVP), Sprint 9 (Presentation), and Sprint 10 (Frontend/Backend Development).*
 
-Structure & Scannability: Your portfolio is well-organized. You’ve clearly separated your technical skills from your projects, which helps recruiters quickly identify if you have the right stack (Java, Python, etc.).
+### Sprint Breakdown Highlights:
+* **Sprint 6 (Marketing)**: Identified target customer persona ("Thabo"), established key user benefits, and evaluated competitors.
+* **Sprint 7 (Feasibility)**: Estimated startup costs, evaluated operational risks, and compiled resource requirements.
+* **Sprint 8 (MVP & Prototyping)**: Defined MVP parameters, produced digital promotional materials, and built user registration workflows.
+* **Sprint 9 (Presentation)**: Prepared slide deck, conducted review runs, and presented project deliverables to evaluators.
+* **Sprint 10 (Development)**: Initialized GitHub Pages repository, designed HTML/CSS user interfaces, built JS state handling, and integrated profile and check-in modules.
 
-The "Problem-Approach-Outcome" Model: This is the most effective way to describe projects. Instead of just saying "I wrote Java code," you explained why (the accommodation data errors) and the impact (reducing entry time by 40%).
+---
 
-Refinement Tip: Since you are a "Technical Scribe," ensure your GitHub link is updated in the README. Consider adding a small section on "Methodologies" to highlight your experience with Agile and Scrum, as mentioned in your academic background.
+## 4. User Stories & System Architecture
+1. **User Authentication**: *As a recovering youth, I want to create a secure account and sign in so that my personal recovery progress remains confidential.*
+2. **Daily Progress Tracking**: *As a user, I want to log my daily mood and track sober days so that I can maintain recovery momentum.*
+3. **Skills Development**: *As an unemployed youth, I want to access skill courses (CV writing, barbering, coding) so that I can re-enter the workforce.*
 
-2. Reflecting on the Mock Interview
-Watching yourself on camera can be uncomfortable, but it is the fastest way to improve.
+---
 
-The "Hook": You started strong by defining yourself as an "aspiring software developer dedicated to building scalable applications." This immediately tells the interviewer your level and your goal.
+## 5. Web Application Evidence: Authentication & Dashboard
+The deployed web application provides an intuitive, responsive interface tailored for youth in Katlehong, built using HTML5, CSS3, and modern JavaScript hosted on GitHub Pages.
 
-Authenticity: When you hit a moment of "brain fog" at the end of the clip, you handled it with a smile. In a real interview, this is where you can say, "I’m very passionate about this topic, let me take a second to gather my thoughts," which shows composure under pressure.
+| Login Portal | Create Account UI |
+| :---: | :---: |
+| ![Login](assets/login.png) | ![Signup](assets/signup.png) |
+| *Figure 3: Secure User Authentication portal.* | *Figure 4: User Signup interface.* |
 
-Non-Verbal Cues: You maintained good eye contact with the camera, which translates to confidence. To take it to the next level, try to reduce looking upward when thinking; it helps you appear more "present" with the interviewer.
+![Dashboard](assets/dashboard.png)
+*Figure 5: Personal Recovery Dashboard displaying Sober Days counter (78 Days), Check-Ins tally, Skills Started, and Quick Action modules.*
 
-3. Reflecting on GitHub Pages Deployment
-Deploying your portfolio to GitHub Pages is your first "live" launch. It moves your work from a local file on your PC to a global URL.
+---
 
-Version Control: By using GitHub, you aren’t just hosting a site; you’re demonstrating that you understand git workflows—branching, committing, and pushing.
+## 6. Web Application Evidence: Core Modules
 
-Visibility: This URL is now something you can put on your LinkedIn profile or WhatsApp Bio. It acts as a "living resume" that updates as you add more entities to your Community Store or Food Ordering projects.
+| User Profile | Daily Check-In | Skills Hub |
+| :---: | :---: | :---: |
+| ![Profile](assets/profile.png) | ![Check-In](assets/checkin.png) | ![Skills Hub](assets/skillshub.png) |
+| *Figure 6: Profile view.* | *Figure 7: Mood logger.* | *Figure 8: Learning portal.* |
+
+---
+
+## 7. Agile Activity Logbook & Reflection
+* **Phase 1 (Requirements & Planning)**: Executed community survey in Katlehong, defined scope, and populated Trello backlog cards.
+* **Phase 2 (UI/UX Prototyping)**: Designed accessible green-theme layout emphasizing low cognitive load for users in recovery.
+* **Phase 3 (Frontend & Deployment)**: Built responsive web pages, deployed to GitHub Pages, resolved relative path routing, and verified form handling.
