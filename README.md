@@ -10,7 +10,6 @@
 
 ## Quick Navigation Links
 * **Trello Agile Board**: [View Board](https://trello.com/b/BmXaw4Vp)
-* **Live GitHub Website**: [Visit Live Site](https://thabangtlex.github.io/Sober-Hub-Pages)
 * **Source Code Repository**: [View Source Code](https://github.com/thabangtlex/Sober-Hub-Pages)
 
 ---
